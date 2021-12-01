@@ -1,17 +1,17 @@
 ### Hi there, My name is Felipe 👋 Welcome to my github!
 
-I am a data enthusiastic, currently studying a Master of Data Science @ University of Newcastle, Australia. 
+I am a data enthusiast, currently studying a Master of Data Science @ University of Newcastle, Australia. 
 I am passionate about my life, a sustainable world and the role AI plays to achieve it.  
 
 I’m currently working on my github page to organise and present my portfolio.
 
-I’m currently learning Python, cleaning data with R, SQL, Tensorflow and AWS.
+I’m currently learning Python, SAP, SQL, Azure and AWS.
 
 I’m looking to collaborate in BI jobs and all aspects of data analytics and data science projects.
 
-I’m looking for help with API, python, scraping and cleaning data.
+I’m looking for help with API, AWS, scraping and cleaning data.
 
-Ask me about any thing you would like I best with R, Python, BI and predictive statistic models.
+Ask me about any thing you would like I best with R, Python, BI and machine learning models.
 
 How to reach me: felipenerydasilva@hotnmail.com.
 
