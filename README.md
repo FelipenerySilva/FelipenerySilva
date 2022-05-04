@@ -1,15 +1,15 @@
 ### Hi there, My name is Felipe 👋 Welcome to my github!
 
-I am a data enthusiast, I have recently completed a Graduation Diploma of Data Science and Analytics @ the University of Newcastle, Australia. 
-I am passionate about my life, a sustainable world and the role AI plays to achieve it.  
+I am a data enthusiast, I have a Graduation Diploma of Data Science and Analytics @ the University of Newcastle, Australia. 
+I am passionate about life, tech innovation, a sustainable world and the role AI plays to achieve it.  
 
 I’m currently working on my github page to organise and present my portfolio.
 
-I’m currently learning Python, SAP, SQL, Azure and AWS.
+I’m currently learning Automation with Python, SAP Analytics, SQL and Azure.
 
-I’m looking to collaborate in BI jobs and all aspects of data analytics and data science projects.
+I’m looking to collaborate in BI jobs and all aspects of data science and analytics projects.
 
-I’m looking for help with API, AWS and scraping data.
+I’m looking for help with Deep Learning and Ruby.
 
 Ask me about any thing you would like I best with R, Python, BI and machine learning models.
 
