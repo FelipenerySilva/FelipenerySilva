@@ -11,7 +11,7 @@ I’m looking to collaborate in BI jobs and all aspects of data science and anal
 
 I’m looking for help with Deep Learning and Ruby.
 
-Ask me about any thing you would like I best with R, Python, BI and machine learning models.
+Ask me about any thing you would like I best with SQL, R, Python, BI and machine learning models.
 
 How to reach me: felipenerydasilva@hotnmail.com.
 
