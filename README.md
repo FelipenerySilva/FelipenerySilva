@@ -3,7 +3,7 @@
 I am a data enthusiast, I have a Graduation Diploma in Data Science and Analytics @ the University of Newcastle, Australia. 
 I am passionate about tech innovations, automation, using technology to create a more sustainable world and the role AI plays to achieve it.  
 
-I’m currently working on my github page to organise and present my portfolio.
+I’m currently working on a machine learning project in python to predict a recommended AirBnB price on the Gold Coast.
 
 I’m currently learning Automation with GIS, Javascrip and Data engineering in Azure and AWS.
 
